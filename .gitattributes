@@ -1,4 +1,5 @@
-*.nodejs linguist-detectable=true 
+*.nodejs linguist-detectable=true
+*.ts linguist-detectable=false 
 *.csharp linguist-detectable=false 
 *.java linguist-detectable=false  
 *.js linguist-detectable=false  
